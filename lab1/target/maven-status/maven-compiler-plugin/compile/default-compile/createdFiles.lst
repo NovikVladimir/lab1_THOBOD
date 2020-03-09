@@ -1,0 +1,5 @@
+Main.class
+requestInfo\MapRequestInfo.class
+requestInfo\RequestInformation.class
+RequestInfoCounter.class
+requestInfo\ReduceRequestInfo.class
